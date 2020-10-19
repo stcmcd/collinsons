@@ -59,7 +59,7 @@ public class BikeStepdefs {
         List<String> hrefs = response.getBody().jsonPath().get("networks.href");
 
         int i=0;
-        while (i<50) {
+        while (i<48) {
             bikesExtension.ResponseFromGet(basePath, pathParams);
 
             pathParams.put("path", hrefs.get(i));
@@ -107,7 +107,7 @@ public class BikeStepdefs {
         List<String> hrefs = response.getBody().jsonPath().get("networks.href");
 
         int i=0;
-        while (i<50) {
+        while (i<48) {
             bikesExtension.ResponseFromGet(basePath, pathParams);
 
             pathParams.put("path", hrefs.get(i));

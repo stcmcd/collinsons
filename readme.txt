@@ -19,7 +19,7 @@ It uses Pojo files stored at C:\Projects\collinsons\src\test\java\steve\step_def
 
 It calls C:\Projects\collinsons\src\main\java\steve\BikesExtension.java to help build the response
 
-Analysing all extras to fully create Extras.java was taking too much time so it only checks the first 50 networks.
+Analysing all extras to fully create Extras.java was taking too much time so it only checks the first 48 networks.
 
 It contains 3 Scenarios
 1. Verify City in Country

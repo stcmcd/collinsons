@@ -66,21 +66,21 @@
     <property name="sun.cpu.isalist" value="amd64"/>
   </properties>
   <testcase classname="Scenario: 1. Verify City in Country" name="Given the city &quot;Frankfurt&quot; is in &quot;Germany&quot; is displayed in the console" time="0.004"/>
-  <testcase classname="Scenario: 1. Verify City in Country" name="Scenario: 1. Verify City in Country" time="0.004"/>
+  <testcase classname="Scenario: 1. Verify City in Country" name="Scenario: 1. Verify City in Country" time="0.005"/>
   <testcase classname="Scenario: 2. Find extras at bike stations" name="And display in console what extras are in stations &quot;{path}&quot;" time="0"/>
-  <testcase classname="Scenario: 2. Find extras at bike stations" name="Scenario: 2. Find extras at bike stations" time="0.006"/>
+  <testcase classname="Scenario: 2. Find extras at bike stations" name="Scenario: 2. Find extras at bike stations" time="0.007"/>
   <testcase classname="Scenario: 3. Find bike stations that a specific extra is available" name="And Find bike stations that the extra &quot;has_ebikes&quot; is available &quot;{path}&quot;" time="0"/>
-  <testcase classname="Scenario: 3. Find bike stations that a specific extra is available" name="Scenario: 3. Find bike stations that a specific extra is available" time="0.001"/>
+  <testcase classname="Scenario: 3. Find bike stations that a specific extra is available" name="Scenario: 3. Find bike stations that a specific extra is available" time="0"/>
   <testcase classname="Scenario: 1.Enter exact price for drink so no refund" name="Given i want to buy a &quot;Soda&quot;" time="0"/>
   <testcase classname="Scenario: 1.Enter exact price for drink so no refund" name="And i enter the following coins" time="0"/>
   <testcase classname="Scenario: 1.Enter exact price for drink so no refund" name="Then i  receive a refund of 0" time="0"/>
-  <testcase classname="Scenario: 1.Enter exact price for drink so no refund" name="Scenario: 1.Enter exact price for drink so no refund" time="0"/>
+  <testcase classname="Scenario: 1.Enter exact price for drink so no refund" name="Scenario: 1.Enter exact price for drink so no refund" time="0.001"/>
   <testcase classname="Scenario: 2.Enter more than the price for drink so refund" name="Given i want to buy a &quot;Coke&quot;" time="0"/>
   <testcase classname="Scenario: 2.Enter more than the price for drink so refund" name="And i enter the following coins" time="0"/>
   <testcase classname="Scenario: 2.Enter more than the price for drink so refund" name="And i want to buy a &quot;Pepsi&quot;" time="0"/>
   <testcase classname="Scenario: 2.Enter more than the price for drink so refund" name="And i enter the following coins" time="0"/>
   <testcase classname="Scenario: 2.Enter more than the price for drink so refund" name="Then i  receive a refund of 30" time="0"/>
-  <testcase classname="Scenario: 2.Enter more than the price for drink so refund" name="Scenario: 2.Enter more than the price for drink so refund" time="0"/>
+  <testcase classname="Scenario: 2.Enter more than the price for drink so refund" name="Scenario: 2.Enter more than the price for drink so refund" time="0.001"/>
   <testcase classname="Scenario: 3.Enter more than the price for drink so refund" name="Given i want to buy a &quot;Cancel&quot;" time="0"/>
   <testcase classname="Scenario: 3.Enter more than the price for drink so refund" name="And i enter the following coins" time="0"/>
   <testcase classname="Scenario: 3.Enter more than the price for drink so refund" name="Then i  receive a refund of 45" time="0"/>
@@ -90,7 +90,7 @@
   <testcase classname="Scenario: 5.Enter exact price for drink so no refund" name="Given i want to buy a &quot;Soda&quot;" time="0"/>
   <testcase classname="Scenario: 5.Enter exact price for drink so no refund" name="And i enter the following coins" time="0"/>
   <testcase classname="Scenario: 5.Enter exact price for drink so no refund" name="Then i  receive a refund of 0" time="0"/>
-  <testcase classname="Scenario: 5.Enter exact price for drink so no refund" name="Scenario: 5.Enter exact price for drink so no refund" time="0.002"/>
+  <testcase classname="Scenario: 5.Enter exact price for drink so no refund" name="Scenario: 5.Enter exact price for drink so no refund" time="0"/>
   <testcase classname="Scenario: 6.Vending machine supplier resets machine and takes accumulated cash" name="Given supplier resets machine and takes accumulated cash of 45" time="0"/>
-  <testcase classname="Scenario: 6.Vending machine supplier resets machine and takes accumulated cash" name="Scenario: 6.Vending machine supplier resets machine and takes accumulated cash" time="0.001"/>
+  <testcase classname="Scenario: 6.Vending machine supplier resets machine and takes accumulated cash" name="Scenario: 6.Vending machine supplier resets machine and takes accumulated cash" time="0"/>
 </testsuite>

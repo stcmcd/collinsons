@@ -39,7 +39,7 @@ formatter.match({
   "location": "BikeStepdefs.iPerformGetOperationFor2(String,String)"
 });
 formatter.result({
-  "duration": 8819238900,
+  "duration": 2429675800,
   "status": "passed"
 });
 formatter.scenario({
@@ -89,7 +89,7 @@ formatter.match({
   "location": "BikeStepdefs.displayInConsoleWhatExtrasAreInStations(String,DataTable)"
 });
 formatter.result({
-  "duration": 12154115800,
+  "duration": 10258342800,
   "status": "passed"
 });
 formatter.scenario({
@@ -133,7 +133,7 @@ formatter.match({
   "location": "BikeStepdefs.displayInConsoleWhatSpecificExtrasAreInStations(String,String,DataTable)"
 });
 formatter.result({
-  "duration": 7885654400,
+  "duration": 7241918300,
   "status": "passed"
 });
 formatter.uri("Vending.feature");
@@ -239,14 +239,14 @@ formatter.match({
   "location": "VendingStepDefs.iWantToBuyADrink(String)"
 });
 formatter.result({
-  "duration": 478900,
+  "duration": 398800,
   "status": "passed"
 });
 formatter.match({
   "location": "VendingStepDefs.iEnterTheFollowingCoins(DataTable)"
 });
 formatter.result({
-  "duration": 227000,
+  "duration": 245800,
   "status": "passed"
 });
 formatter.match({
@@ -259,7 +259,7 @@ formatter.match({
   "location": "VendingStepDefs.iReceiveARefundOf(int)"
 });
 formatter.result({
-  "duration": 2982500,
+  "duration": 3000400,
   "status": "passed"
 });
 formatter.scenario({
@@ -417,14 +417,14 @@ formatter.match({
   "location": "VendingStepDefs.iWantToBuyADrink(String)"
 });
 formatter.result({
-  "duration": 142800,
+  "duration": 191800,
   "status": "passed"
 });
 formatter.match({
   "location": "VendingStepDefs.iEnterTheFollowingCoins(DataTable)"
 });
 formatter.result({
-  "duration": 112200,
+  "duration": 238400,
   "status": "passed"
 });
 formatter.match({
@@ -437,14 +437,14 @@ formatter.match({
   "location": "VendingStepDefs.iWantToBuyADrink(String)"
 });
 formatter.result({
-  "duration": 62800,
+  "duration": 289600,
   "status": "passed"
 });
 formatter.match({
   "location": "VendingStepDefs.iEnterTheFollowingCoins(DataTable)"
 });
 formatter.result({
-  "duration": 74400,
+  "duration": 265200,
   "status": "passed"
 });
 formatter.match({
@@ -457,7 +457,7 @@ formatter.match({
   "location": "VendingStepDefs.iReceiveARefundOf(int)"
 });
 formatter.result({
-  "duration": 174000,
+  "duration": 181200,
   "status": "passed"
 });
 formatter.scenario({
@@ -549,14 +549,14 @@ formatter.match({
   "location": "VendingStepDefs.iWantToBuyADrink(String)"
 });
 formatter.result({
-  "duration": 486500,
+  "duration": 665700,
   "status": "passed"
 });
 formatter.match({
   "location": "VendingStepDefs.iEnterTheFollowingCoins(DataTable)"
 });
 formatter.result({
-  "duration": 416600,
+  "duration": 120200,
   "status": "passed"
 });
 formatter.match({
@@ -569,7 +569,7 @@ formatter.match({
   "location": "VendingStepDefs.iReceiveARefundOf(int)"
 });
 formatter.result({
-  "duration": 298900,
+  "duration": 103100,
   "status": "passed"
 });
 formatter.scenario({
@@ -595,7 +595,7 @@ formatter.match({
   "location": "VendingStepDefs.supplierEmptiesMachineOf(int)"
 });
 formatter.result({
-  "duration": 233900,
+  "duration": 221800,
   "status": "passed"
 });
 formatter.scenario({
@@ -693,14 +693,14 @@ formatter.match({
   "location": "VendingStepDefs.iWantToBuyADrink(String)"
 });
 formatter.result({
-  "duration": 201300,
+  "duration": 122900,
   "status": "passed"
 });
 formatter.match({
   "location": "VendingStepDefs.iEnterTheFollowingCoins(DataTable)"
 });
 formatter.result({
-  "duration": 252800,
+  "duration": 75800,
   "status": "passed"
 });
 formatter.match({
@@ -713,7 +713,7 @@ formatter.match({
   "location": "VendingStepDefs.iReceiveARefundOf(int)"
 });
 formatter.result({
-  "duration": 301300,
+  "duration": 57100,
   "status": "passed"
 });
 formatter.scenario({
@@ -745,7 +745,7 @@ formatter.match({
   "location": "VendingStepDefs.supplierEmptiesMachineOf(int)"
 });
 formatter.result({
-  "duration": 388000,
+  "duration": 145000,
   "status": "passed"
 });
 });
